@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GregorioReche
-- Working as IT PM, SM and profesor of Introduction to Programming at UTN (Argentina).
+- IT PM, SM and profesor of Introduction to Programming at UTN (Argentina).
 - 👀 I’m interested in C++ and Unreal.
 - 🌱 I’m currently learning modern C++ and UE.
 - 💞️ I’m looking to collaborate on C++ projects.
